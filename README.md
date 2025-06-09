@@ -15,17 +15,6 @@ Proyecto de automatización de pruebas E2E para automationexercise.com usando Pl
 - TC009-003: Búsqueda con campo vacío
 - TC009-004: Búsqueda con fallo intencional
 
-## Estructura del Proyecto
-tests/
-├── pages/                  # Page Object Model
-│   ├── base.page.ts
-│   ├── login.page.ts
-│   └── products.page.ts
-└── suites/                 # Test suites organizadas
-├── authentication/
-│   └── login.spec.ts
-└── products/
-└── search.spec.ts
 ## Configuración
 
 **Navegadores configurados:**
